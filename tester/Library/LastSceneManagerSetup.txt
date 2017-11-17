@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Michael/Documents/Unity Projects/Level Design/Assets/BlockLevel.unity
+  isLoaded: 1
+  isActive: 1
